@@ -10,7 +10,7 @@ Languages ​​that I work and know.
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt='Bruno-Black' height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblackarch.org%2Fblackarch-guide-pt-br.pdf&psig=AOvVaw2avC5bxGamoHzd3OLfELRh&ust=1728964298707000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNi494j8jIkDFQAAAAAdAAAAABAE"
+  <img align="center" alt='Bruno-Black' height="30" width="40" src="https://avatars.githubusercontent.com/u/6171113?s=200&v=4"
   
 </div>
   
